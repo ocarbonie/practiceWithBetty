@@ -43,6 +43,7 @@ public class Main {
         colors.add("Red");
         colors.add("Blue");
         colors.add("Purple");
+        colors.add("Yellow");
 
 
         for(String x : colors){
@@ -56,7 +57,7 @@ public class Main {
 
         int entry,sum=0;
         for(int i=0;i<5;i++){
-            System.out.println("Enter a number: ");
+            System.out.println("Enter a number PLEASE RETURN GI: ");
             entry=input.nextInt();
             sum += entry;
 
