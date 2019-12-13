@@ -44,7 +44,6 @@ public class Main {
         colors.add("Blue");
         colors.add("Purple");
 
-
         for(String x : colors){
             System.out.println(x+"------------------");
         }
